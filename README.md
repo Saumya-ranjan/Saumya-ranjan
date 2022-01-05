@@ -22,9 +22,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Saumya-ranjan.Saumya-ranjan)
 
-  
- <br>
-<h3> languages and tools: </h3> 
+
+<h3>Languages and tools: </h3> 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
@@ -36,6 +35,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<h3>📈 my github stats: </h3>
+<h3>📈 My Github Stats: </h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Saumya-ranjan&show_icons=true&theme=gotham" alt="Saumyaranjan" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Saumya-ranjan&show_icons=true&theme=gotham" alt="Saumyaranjan" />
