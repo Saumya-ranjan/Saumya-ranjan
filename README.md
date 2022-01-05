@@ -11,7 +11,7 @@
 ✉️ &nbsp;You can shoot me an email at saumyaranjan.sp20@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1amho96-QGr8XatjKNiEbcdujGMXeUPwJ/view) for more details about me. I'm open to feedback and suggestions!
 
-<h3>Where to find me</h3>
+<h3>Where to find me: </h3>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <a href="https://twitter.com/Saumyar45446524" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
@@ -35,7 +35,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br>
+
 <h3>📈 my github stats: </h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Saumya-ranjan&show_icons=true&theme=gotham" alt="Saumyaranjan" />
