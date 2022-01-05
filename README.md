@@ -1,16 +1,20 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ i'm  [Saumyaranjan](https://saumyaranjanportfolio.herokuapp.com/).
 <a href="https://twitter.com/Saumyar45446524">
   <img align="left" alt="saumyaranjan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/saumyaranjan-parida-37a40b184/">
   <img align="left" alt="saumyaranjan | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://medium.com/@saumyaranjanparida" target="_blank">
+  <img alt="saumyaranjan Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Saumya-ranjan.Saumya-ranjan)
 
 <br />
 
-Hey there, i'm  [Saumyaranjan](https://saumyaranjanportfolio.herokuapp.com/). I was born and bought up in Mumbai (India). I am a student pursuing B.E in Computer Science Engineering. I started to love programming from first year of my college. from that day i have been grinding myself in this programming world. I am fluent in classics like Python, Javascript and c++. i also have a Hands-on experience with Django and MERN Stack. My field of Interest's is in Web development, Machine Learning, and also in areas related to Deep Learning and Natural Language Processing.
+I was born and bought up in Mumbai (India). I am a student pursuing B.E in Computer Science Engineering. I started to love programming from first year of my college. from that day i have been grinding myself in this programming world. I am fluent in classics like Python, Javascript and c++. i also have a Hands-on experience with Django and MERN Stack. My field of Interest's is in Web development, Machine Learning, and also in areas related to Deep Learning and Natural Language Processing.
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
