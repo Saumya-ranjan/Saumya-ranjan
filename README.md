@@ -1,11 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
- i'm  [Saumyaranjan](https://saumyaranjanportfolio.herokuapp.com/).
-<a href="https://twitter.com/Saumyar45446524">
-  <img align="left" alt="saumyaranjan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+ i'm  [Saumyaranjan](https://saumyaranjanportfolio.herokuapp.com/). <br>
+ 
+<a href="https://twitter.com/Saumyar45446524" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/saumyaranjan-parida-37a40b184/">
-  <img align="left" alt="saumyaranjan | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<a href="https://www.linkedin.com/in/saumyaranjan-parida-37a40b184/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@saumyaranjanparida" target="_blank">
   <img alt="saumyaranjan Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
