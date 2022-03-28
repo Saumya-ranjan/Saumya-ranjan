@@ -23,9 +23,9 @@ I'm  [Saumyaranjan](https://saumyaranjanportfolio.herokuapp.com/). I was born an
 ![](https://visitor-badge.glitch.me/badge?page_id=Saumya-ranjan.Saumya-ranjan)
 
 <h3> Coding Sites: </h3>
-⭐⭐⭐⭐⭐ Hackerrank Python 
-Leetcode - https://leetcode.com/Saumyaranjan_parida/
-Hackerrank - https://www.hackerrank.com/saumyaranjan_sp1
+⭐⭐⭐⭐⭐ Hackerrank Python <br>
+Leetcode - https://leetcode.com/Saumyaranjan_parida/ <br>
+Hackerrank - https://www.hackerrank.com/saumyaranjan_sp1 <br>
 
 <h3>Languages and tools: </h3> 
 
