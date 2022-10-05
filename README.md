@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm  [Saumyaranjan](https://saumyaranjanportfolio.herokuapp.com/). I was born and bought up in Mumbai (India). I am a student pursuing B.E in Computer Science Engineering. I started to love programming in the first year of my college itself. from that day I have been grinding myself in this programming world. I am fluent in classics like Python, Javascript, and c++. I also have a Hands-on experience with Django and MERN Stack. My field of interest's are in Web development, Machine Learning, and also in areas related to Deep Learning and Natural Language Processing.
+I'm  [Saumyaranjan](https://saumya-ranjan.github.io/). I was born and bought up in Mumbai (India). I am a student pursuing B.E in Computer Science Engineering. I started to love programming in the first year of my college itself. from that day I have been grinding myself in this programming world. I am fluent in classics like Python, Javascript, and c++. I also have a Hands-on experience with Django and MERN Stack. My field of interest's are in Web development, Machine Learning, and also in areas related to Deep Learning and Natural Language Processing.
  
  ### 👨🏻‍💻 &nbsp;About Me
 
