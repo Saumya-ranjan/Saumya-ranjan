@@ -22,7 +22,7 @@ CI/CD Tools:⏳ &nbsp;Github Actions and Jenkins\
 ![](https://visitor-badge.glitch.me/badge?page_id=Saumya-ranjan.Saumya-ranjan)
 
 <h3> Coding Sites: </h3>
-[Leetcode Profile](https://leetcode.com/Saumyaranjan_parida/)
+<a href ="https://leetcode.com/Saumyaranjan_parida/">Leetcode Profile</a>
 [Hackerrank](https://www.hackerrank.com/saumyaranjan_sp1)
 [GeekForGeeks](https://www.geeksforgeeks.org/user/saumyaranjansp20/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 
