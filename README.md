@@ -3,22 +3,16 @@ I'm  [Saumyaranjan](https://saumya-ranjan.github.io/). Currently Working as an A
 I specialize in designing, implementing, testing, and delivering robust backend and cloud applications, showcasing versatility across various programming languages and technologies.
  
 ### 👨🏻‍💻 &nbsp;Here are just a few of the technical skills I bring to the table:
-
-Languages : JavaScript, Java, Python, Golang, C++, C#, Kotlin.
-Developer Tools : VS Code, Eclipse, Jupyter Notebook, Google Colab, Google Cloud Platform. 
-Technologies/Frameworks : Linux, MongoDB, Postman, Docker, Git, Aws (S3, DynamoDB, Sqs and Lambda), Redis, Rabbitmq and Kafka.
-CI/CD Tools : Github Actions and Jenkins.
-
 Languages :💡 &nbsp;JavaScript, Java, Python, Golang, C++, C#, Kotlin.\
-Developer Tools:🌱 &nbsp;VS Code, Eclipse, Jupyter Notebook, Google Colab, Google Cloud Platform.\
-Technologies/Frameworks:✍️ &nbsp;Linux, MongoDB, Postman, Docker, Git, Aws (S3, DynamoDB, Sqs and Lambda), Redis, Rabbitmq and Kafka.\
-CI/CD Tools:💬 &nbsp;Github Actions and Jenkins\
+Developer Tools:📝 &nbsp;VS Code, Eclipse, Jupyter Notebook, Google Colab, Google Cloud Platform.\
+Technologies/Frameworks:💻 &nbsp;Linux, MongoDB, Postman, Docker, Git, Aws (S3, DynamoDB, Sqs and Lambda), Redis, Rabbitmq and Kafka.\
+CI/CD Tools:⏳ &nbsp;Github Actions and Jenkins\
 ✉️ &nbsp;You can shoot me an email at workwithsaumyaranjan@gmail.com for discussions on software and web development, or anything tech-related!\
-📄 &nbsp;Check out my Resume [Resume](https://drive.google.com/file/d/1amho96-QGr8XatjKNiEbcdujGMXeUPwJ/view).
+📄 &nbsp;Check out my Resume [Resume](https://drive.google.com/file/d/1jcdfH6i5evohKBxPjFrNlGzin--BiGcr/view?usp=sharing).
 
 <h3>Where to find me: </h3>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-<a href="https://twitter.com/Saumyar45446524" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://twitter.com/WorkWithSaumya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/saumyaranjan-parida-37a40b184/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@saumyaranjanparida" target="_blank">
@@ -28,7 +22,7 @@ CI/CD Tools:💬 &nbsp;Github Actions and Jenkins\
 ![](https://visitor-badge.glitch.me/badge?page_id=Saumya-ranjan.Saumya-ranjan)
 
 <h3> Coding Sites: </h3>
-⭐⭐⭐⭐⭐ Hackerrank Python <br>
+⭐⭐⭐⭐⭐ Hackerrank <br>
 Leetcode - https://leetcode.com/Saumyaranjan_parida/ <br>
 Hackerrank - https://www.hackerrank.com/saumyaranjan_sp1 <br>
 
