@@ -1,15 +1,20 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm  [Saumyaranjan](https://saumya-ranjan.github.io/). I was born and bought up in Mumbai (India). I am a student pursuing B.E in Computer Science Engineering. I started to love programming in the first year of my college itself. from that day I have been grinding myself in this programming world. I am fluent in classics like Python, Javascript, and c++. I also have a Hands-on experience with Django and MERN Stack. My field of interest's are in Web development, Machine Learning, and also in areas related to Deep Learning and Natural Language Processing.
+I'm  [Saumyaranjan](https://saumya-ranjan.github.io/). Currently Working as an Associate Software Engineer at Raw Engineering with over 1.5 years of experience.
+I specialize in designing, implementing, testing, and delivering robust backend and cloud applications, showcasing versatility across various programming languages and technologies.
  
- ### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Here are just a few of the technical skills I bring to the table:
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science Engineering.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning, Deep Learning\
-✍️ &nbsp;In my free time, I pursue reading books and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at saumyaranjan.sp20@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1amho96-QGr8XatjKNiEbcdujGMXeUPwJ/view) for more details about me. I'm open to feedback and suggestions!
+Languages : JavaScript, Java, Python, Golang, C++, C#, Kotlin.
+Developer Tools : VS Code, Eclipse, Jupyter Notebook, Google Colab, Google Cloud Platform. 
+Technologies/Frameworks : Linux, MongoDB, Postman, Docker, Git, Aws (S3, DynamoDB, Sqs and Lambda), Redis, Rabbitmq and Kafka.
+CI/CD Tools : Github Actions and Jenkins.
+
+Languages :💡 &nbsp;JavaScript, Java, Python, Golang, C++, C#, Kotlin.\
+Developer Tools:🌱 &nbsp;VS Code, Eclipse, Jupyter Notebook, Google Colab, Google Cloud Platform.\
+Technologies/Frameworks:✍️ &nbsp;Linux, MongoDB, Postman, Docker, Git, Aws (S3, DynamoDB, Sqs and Lambda), Redis, Rabbitmq and Kafka.\
+CI/CD Tools:💬 &nbsp;Github Actions and Jenkins\
+✉️ &nbsp;You can shoot me an email at workwithsaumyaranjan@gmail.com for discussions on software and web development, or anything tech-related!\
+📄 &nbsp;Check out my Resume [Resume](https://drive.google.com/file/d/1amho96-QGr8XatjKNiEbcdujGMXeUPwJ/view).
 
 <h3>Where to find me: </h3>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
