@@ -7,6 +7,7 @@ Languages :💡 &nbsp;JavaScript, Java, Python, Golang, C++, C#, Kotlin.\
 Developer Tools:📝 &nbsp;VS Code, Eclipse, Jupyter Notebook, Google Colab, Google Cloud Platform.\
 Technologies/Frameworks:💻 &nbsp;Linux, MongoDB, Postman, Docker, Git, Aws (S3, DynamoDB, Sqs and Lambda), Redis, Rabbitmq and Kafka.\
 CI/CD Tools:⏳ &nbsp;Github Actions and Jenkins\
+<br>
 ✉️ &nbsp;You can shoot me an email at workwithsaumyaranjan@gmail.com for discussions on software and web development, or anything tech-related!\
 📄 &nbsp;Check out my Resume [Resume](https://drive.google.com/file/d/1jcdfH6i5evohKBxPjFrNlGzin--BiGcr/view?usp=sharing).
 
