@@ -3,7 +3,7 @@ I'm  [Saumyaranjan](https://saumya-ranjan.github.io/). Currently Working as an A
 I specialize in designing, implementing, testing, and delivering robust backend and cloud applications, showcasing versatility across various programming languages and technologies.
  
 ### 👨🏻‍💻 &nbsp;Here are just a few of the technical skills I bring to the table:
-Languages :💡 &nbsp;JavaScript, Java, Python, Golang, C++, C#, Kotlin.\
+Languages :💡 &nbsp;JavaScript, Java, Python, Golang, C++, C#, Kotlin, swift.\
 Developer Tools:📝 &nbsp;VS Code, Eclipse, Jupyter Notebook, Google Colab, Google Cloud Platform.\
 Technologies/Frameworks:💻 &nbsp;Linux, MongoDB, Postman, Docker, Git, Aws (S3, DynamoDB, Sqs and Lambda), Redis, Rabbitmq and Kafka.\
 CI/CD Tools:⏳ &nbsp;Github Actions and Jenkins\
